@@ -1,0 +1,6 @@
+<map id="IDR(s)/Solver.h" name="IDR(s)/Solver.h">
+<area shape="rect" id="node1" title="Definition of class Solver and enum and structs related to it." alt="" coords="160,5,268,32"/>
+<area shape="rect" id="node2" href="$main_8cu.html" title="Driver or the entry point of the program." alt="" coords="5,80,113,107"/>
+<area shape="rect" id="node3" href="$_p_i_d_r___solver_8cu.html" title="Implementation of Solver::PIDR_Solver() and its helper functions." alt="" coords="138,80,290,107"/>
+<area shape="rect" id="node4" href="$_read___write___data_8cu.html" title="Implementation of read, write data functions and their helpers." alt="" coords="315,80,497,107"/>
+</map>

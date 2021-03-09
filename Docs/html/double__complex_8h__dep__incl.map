@@ -1,0 +1,8 @@
+<map id="IDR(s)/double_complex.h" name="IDR(s)/double_complex.h">
+<area shape="rect" id="node1" title="Contains commonly used macros, functions and overloaded operators(all static inline) for cuDoubleComp..." alt="" coords="278,5,445,32"/>
+<area shape="rect" id="node2" href="$kernels_8cu.html" title="Implementation of functions and GPU kernels for array copy, initialization and basic linear algebra o..." alt="" coords="5,80,128,107"/>
+<area shape="rect" id="node3" href="$main_8cu.html" title="Driver or the entry point of the program." alt="" coords="153,80,261,107"/>
+<area shape="rect" id="node4" href="$_p_i_d_r___solver_8cu.html" title="Implementation of Solver::PIDR_Solver() and its helper functions." alt="" coords="285,80,437,107"/>
+<area shape="rect" id="node5" href="$_preconditioner_8cu.html" title="Implementation of member functions of classes JacobiPreconditioner, RichardsonPreconditioner and othe..." alt="" coords="461,80,624,107"/>
+<area shape="rect" id="node6" href="$_read___write___data_8cu.html" title="Implementation of read, write data functions and their helpers." alt="" coords="649,80,831,107"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="IDR(s)/location_enums.h" name="IDR(s)/location_enums.h">
+<area shape="rect" id="node1" title="Contains defintion of common enum classes used in various preconditioner and matrix classes." alt="" coords="235,5,399,32"/>
+<area shape="rect" id="node2" href="$_matrix_8h.html" title="Definition of classes Dense_Matrix, CSR_Matrix and COO_Matrix." alt="" coords="341,80,450,107"/>
+<area shape="rect" id="node9" href="$_preconditioner_8h.html" title="Definition of classes Preconditioner, JacobiPreconditioner, RichardsonPreconditioner and prototypes o..." alt="" coords="148,80,304,107"/>
+<area shape="rect" id="node3" href="$kernels_8cu.html" title="Implementation of functions and GPU kernels for array copy, initialization and basic linear algebra o..." alt="" coords="501,155,623,181"/>
+<area shape="rect" id="node4" href="$main_8cu.html" title="Driver or the entry point of the program." alt="" coords="5,155,113,181"/>
+<area shape="rect" id="node5" href="$_matrix_8cu.html" title="Implementation of member functions of classes Dense_Matrix, CSR_Matrix and COO_Matrix." alt="" coords="648,155,764,181"/>
+<area shape="rect" id="node6" href="$_p_i_d_r___solver_8cu.html" title="Implementation of Solver::PIDR_Solver() and its helper functions." alt="" coords="138,155,290,181"/>
+<area shape="rect" id="node7" href="$_preconditioner_8cu.html" title="Implementation of member functions of classes JacobiPreconditioner, RichardsonPreconditioner and othe..." alt="" coords="314,155,477,181"/>
+<area shape="rect" id="node8" href="$_read___write___data_8cu.html" title="Implementation of read, write data functions and their helpers." alt="" coords="788,155,971,181"/>
+</map>

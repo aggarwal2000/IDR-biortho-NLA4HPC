@@ -1,0 +1,5 @@
+<map id="Preconditioner" name="Preconditioner">
+<area shape="rect" id="node1" title="abstract class which serves as base for any specific preconditioner object" alt="" coords="115,5,220,32"/>
+<area shape="rect" id="node2" href="$class_jacobi_preconditioner.html" title="JacobiPreconditioner class derived from base class Preconditioner." alt="" coords="5,80,148,107"/>
+<area shape="rect" id="node3" href="$class_richardson_preconditioner.html" title="RichardsonPreconditioner class derived from base class Preconditioner." alt="" coords="173,80,343,107"/>
+</map>

@@ -1,0 +1,27 @@
+var class_dense___matrix =
+[
+    [ "Dense_Matrix", "class_dense___matrix.html#a54c5f3be541d2822b917ec8d5b5601e5", null ],
+    [ "~Dense_Matrix", "class_dense___matrix.html#ae5170581925944a7b3d8ab228e452d1f", null ],
+    [ "Dense_Matrix", "class_dense___matrix.html#a26ed8e7e958a85190b793046d379bc68", null ],
+    [ "Dense_Matrix", "class_dense___matrix.html#af6d7ed44ee7ddea0e8ab9691b9c2384e", null ],
+    [ "Allocate_Memory", "class_dense___matrix.html#a05fd8c23b0b7033aa7f24cece716d4ab", null ],
+    [ "CopyMatrix_cpu_to_gpu", "class_dense___matrix.html#acd15622e2e6c4c41efe6b8b371dc6a3c", null ],
+    [ "CopyMatrix_cpu_to_gpu", "class_dense___matrix.html#a7e2eedaf92b0ff7f1deb61a0264186b6", null ],
+    [ "CopyMatrix_gpu_to_cpu", "class_dense___matrix.html#ac01020cdf74052781e145dae0c6c2a4d", null ],
+    [ "CopyMatrix_gpu_to_cpu", "class_dense___matrix.html#aca81c579961c2a5a567a0d4ce3d29de4", null ],
+    [ "Deallocate_Memory", "class_dense___matrix.html#a7410a6b121add210169978c7395a24c4", null ],
+    [ "ExistsCPU", "class_dense___matrix.html#ab4311df7128126242d00cbce84a44007", null ],
+    [ "ExistsGPU", "class_dense___matrix.html#a1d173d3cfa505176bddd439b1484a130", null ],
+    [ "GetColPtrCPU", "class_dense___matrix.html#a1bd1b754c82bd35196361e09edd11182", null ],
+    [ "GetColPtrGPU", "class_dense___matrix.html#ad84a53fa33e6210ce65b080b1a642f65", null ],
+    [ "GetCols", "class_dense___matrix.html#a552440cf9c740e9de5102c01d2b5ff8a", null ],
+    [ "GetCPUValues", "class_dense___matrix.html#a41cefd610ec68883e6a605ad5dd50b97", null ],
+    [ "GetGPUValues", "class_dense___matrix.html#a36487739e6ef3db40b64f0d0b391e44d", null ],
+    [ "GetLda", "class_dense___matrix.html#a86ef38154cf2b3ddd6281285fd74eb9e", null ],
+    [ "GetOrder", "class_dense___matrix.html#a59f2e574360266fa81c574df9658e381", null ],
+    [ "GetRows", "class_dense___matrix.html#a77a4283f8397795632e1ee961f88d1a2", null ],
+    [ "GetSpecificLocationPtrCPU", "class_dense___matrix.html#ad58fe051a9e7cf6f45f23ca56910466d", null ],
+    [ "GetSpecificLocationPtrGPU", "class_dense___matrix.html#aff9b834e713ca87d904df43e4e0dfec8", null ],
+    [ "operator=", "class_dense___matrix.html#a87ab7f082bae468532ee3144d2984117", null ],
+    [ "operator=", "class_dense___matrix.html#ae5ae4e5519e80b897e117ce7509882f6", null ]
+];

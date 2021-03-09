@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_preconditioner.html" title="abstract class which serves as base for any specific preconditioner object" alt="" coords="5,31,111,57"/>
+<area shape="rect" id="node2" href="$class_jacobi_preconditioner.html" title="JacobiPreconditioner class derived from base class Preconditioner." alt="" coords="173,5,315,32"/>
+<area shape="rect" id="node3" href="$class_richardson_preconditioner.html" title="RichardsonPreconditioner class derived from base class Preconditioner." alt="" coords="159,56,329,83"/>
+</map>
